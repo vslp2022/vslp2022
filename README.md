@@ -10,6 +10,7 @@ Virginia Sabattini
         Profesores
         <h1>
         Ricardo Palma
+          <p>
         Alan Gomez
           </h1>
         
