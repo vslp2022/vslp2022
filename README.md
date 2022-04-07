@@ -12,7 +12,7 @@ Virginia Sabattini
         <h1>
         Ricardo Palma
           <p>
-        Alan Gomez
+        Alejandro Gomez
           </h1>
         
         
